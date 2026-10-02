@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1420" height="890" viewBox="0 0 1420 890">
+<title>Приём и медицинская карта — As-Is</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#8A8A8A"/></marker></defs>
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<rect x="465" y="175" width="875" height="580" rx="10" fill="none" stroke="#8A8A8A" stroke-width="1.2" stroke-dasharray="8 5"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="start" font-size="14" font-weight="bold" fill="#454545">
+<tspan x="477" y="742" dominant-baseline="middle">МЕДИКАМЕНТЕ  [Процесс и данные]</tspan>
+</text>
+<polyline points="360,240 500,240" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="800,240 1000,240" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="1000,300 800,300" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="360,570 500,570" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="500,635 360,635" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="800,570 1000,570" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="1000,630 800,630" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="1000,315 935,315 935,435 650,435 650,530" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="24" font-weight="bold" fill="#454545">
+<tspan x="710" y="40" dominant-baseline="middle">Приём и медицинская карта — As-Is</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#454545">
+<tspan x="710" y="90.5" dominant-baseline="middle">DFD процесса • по описанию компании; неизвестные детали отмечены отдельно</tspan>
+</text>
+<rect x="60" y="200" width="300" height="140" rx="30" fill="#6D6578" stroke="#6D6578" stroke-width="1"/>
+<circle cx="210" cy="184" r="43" fill="#6D6578" stroke="#6D6578" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="210" y="270" dominant-baseline="middle">Пациент</tspan>
+</text>
+<rect x="500" y="200" width="300" height="140" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="650" y="260.5" dominant-baseline="middle">P1. Врач проводит приём</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="650" y="282" dominant-baseline="middle">Записывает сведения</tspan>
+</text>
+<rect x="1000" y="200" width="300" height="140" fill="#1565AD"/><path d="M 1300 200 H 1000 V 340 H 1300" fill="none" stroke="#10528F" stroke-width="1.4"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="1150" y="251" dominant-baseline="middle">D1. Медкарты и сканы</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1150" y="272.5" dominant-baseline="middle">Excel / JPG / PDF</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1150" y="291.5" dominant-baseline="middle">Общий диск</tspan>
+</text>
+<rect x="60" y="530" width="300" height="140" rx="30" fill="#0B4073" stroke="#0B4073" stroke-width="1"/>
+<circle cx="210" cy="514" r="43" fill="#0B4073" stroke="#0B4073" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="210" y="600" dominant-baseline="middle">Медицинский специалист</tspan>
+</text>
+<rect x="500" y="530" width="300" height="140" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="650" y="590.5" dominant-baseline="middle">P2. Найти карту</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="650" y="612" dominant-baseline="middle">и выдать заключение</tspan>
+</text>
+<rect x="1000" y="530" width="300" height="140" fill="#1565AD"/><path d="M 1300 530 H 1000 V 670 H 1300" fill="none" stroke="#10528F" stroke-width="1.4"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="1150" y="590.5" dominant-baseline="middle">D2. Журнал приёма</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1150" y="612" dominant-baseline="middle">и копии заключений</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#454545">
+<tspan x="680" y="812.5" dominant-baseline="middle">Пациент видит свои документы; принадлежность объекта проверяется перед каждым скачиванием.</tspan>
+</text>
+<rect x="372.5" y="144.5" width="115" height="21" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="430" y="155" dominant-baseline="middle">Жалобы, анамнез</tspan>
+</text>
+<rect x="860" y="136" width="80" height="38" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="900" y="146.55" dominant-baseline="middle">Диагноз,</tspan>
+<tspan x="900" y="163.45" dominant-baseline="middle">заключение</tspan>
+</text>
+<rect x="842.5" y="319.5" width="115" height="21" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="900" y="330" dominant-baseline="middle">История лечения</tspan>
+</text>
+<rect x="383" y="479.5" width="94" height="21" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="430" y="490" dominant-baseline="middle">Запрос карты</tspan>
+</text>
+<rect x="390" y="696" width="80" height="38" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="430" y="706.55" dominant-baseline="middle">Карта,</tspan>
+<tspan x="430" y="723.45" dominant-baseline="middle">заключение</tspan>
+</text>
+<rect x="835.5" y="471" width="129" height="38" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="900" y="481.55" dominant-baseline="middle">Отметка о приёме,</tspan>
+<tspan x="900" y="498.45" dominant-baseline="middle">заключение</tspan>
+</text>
+<rect x="846" y="704.5" width="108" height="21" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="900" y="715" dominant-baseline="middle">Прежние записи</tspan>
+</text>
+<rect x="746" y="386" width="108" height="38" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="800" y="396.55" dominant-baseline="middle">Связь пациента</tspan>
+<tspan x="800" y="413.45" dominant-baseline="middle">с документами</tspan>
+</text>
+</svg>
