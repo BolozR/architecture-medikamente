@@ -1,0 +1,276 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1430" viewBox="0 0 1920 1430">
+<title>Движок классификации — C4 Container (C2)</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#8A8A8A"/></marker></defs>
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<rect x="350" y="150" width="1520" height="1090" rx="10" fill="none" stroke="#8A8A8A" stroke-width="1.2" stroke-dasharray="8 5"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="start" font-size="14" font-weight="bold" fill="#454545">
+<tspan x="362" y="1227" dominant-baseline="middle">Граница аналитической платформы • закрытый контур РФ</tspan>
+</text>
+<polyline points="310,270 420,270" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="750,270 840,270" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="750,315 805,315 805,400 1580,400 1580,350" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="1390,315 1280,315 1280,500 1130,500 1130,540" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="1025,350 1025,540" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="860,600 750,600" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="750,665 860,665" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)" stroke-dasharray="6 4"/>
+<polyline points="310,635 400,635" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="170,700 170,805 1580,805 1580,705" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)" stroke-dasharray="6 4"/>
+<polyline points="1390,610 1190,610" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="1190,680 1390,680" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="1025,720 1025,910" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="860,970 750,970" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="750,1030 860,1030" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="1190,985 1370,985" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="1580,1290 1580,1075" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="940,1090 940,1160 750,1160" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="24" font-weight="bold" fill="#454545">
+<tspan x="960" y="40" dominant-baseline="middle">Движок классификации — C4 Container (C2)</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#454545">
+<tspan x="960" y="90.5" dominant-baseline="middle">Классификация до допуска в хранилище • медицинский restricted остаётся конфиденциальным</tspan>
+</text>
+<rect x="25" y="210" width="285" height="140" rx="12" fill="#8C8498" stroke="#7B7387" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="167.5" y="261" dominant-baseline="middle">Clinic API / Excel / 1С</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#FFFFFF">
+<tspan x="167.5" y="282.5" dominant-baseline="middle">[Software Systems]</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="167.5" y="301.5" dominant-baseline="middle">Экспорт согласованного набора</tspan>
+</text>
+<rect x="420" y="205" width="330" height="145" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="585" y="258.5" dominant-baseline="middle">Приём пакетов</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#FFFFFF">
+<tspan x="585" y="280" dominant-baseline="middle">[Container: batch job]</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="585" y="299" dominant-baseline="middle">Пакеты и очередь задач</tspan>
+</text>
+<rect x="840" y="189" width="330" height="145" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<rect x="850" y="197" width="330" height="145" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<rect x="860" y="205" width="330" height="145" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="1025" y="249" dominant-baseline="middle">Landing</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#FFFFFF">
+<tspan x="1025" y="270.5" dominant-baseline="middle">[Container: S3]</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1025" y="289.5" dominant-baseline="middle">Зашифрованный исходник</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1025" y="308.5" dominant-baseline="middle">Только ingest / classifier</tspan>
+</text>
+<rect x="1390" y="205" width="385" height="145" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="1582.5" y="249" dominant-baseline="middle">Очередь + реестр задач</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#FFFFFF">
+<tspan x="1582.5" y="270.5" dominant-baseline="middle">[Container: PostgreSQL]</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1582.5" y="289.5" dominant-baseline="middle">Ссылка на пакет, статус</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1582.5" y="308.5" dominant-baseline="middle">Уникальность, повторы</tspan>
+</text>
+<rect x="860" y="540" width="330" height="180" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="1025" y="601.5" dominant-baseline="middle">Classifier / Transformer</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#FFFFFF">
+<tspan x="1025" y="623" dominant-baseline="middle">[Container: worker]</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1025" y="642" dominant-baseline="middle">Схема, теги, цель, минимизация</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1025" y="661" dominant-baseline="middle">UNKNOWN запрещает публикацию</tspan>
+</text>
+<rect x="400" y="539" width="330" height="150" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<rect x="410" y="547" width="330" height="150" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<rect x="420" y="555" width="330" height="150" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="585" y="601.5" dominant-baseline="middle">Quarantine</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#FFFFFF">
+<tspan x="585" y="623" dominant-baseline="middle">[Container: S3]</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="585" y="642" dominant-baseline="middle">Закрытый пакет и причина</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="585" y="661" dominant-baseline="middle">Закрытый доступ, без BI</tspan>
+</text>
+<rect x="1390" y="555" width="385" height="150" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="1582.5" y="601.5" dominant-baseline="middle">Каталог и политики</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#FFFFFF">
+<tspan x="1582.5" y="623" dominant-baseline="middle">[Container: OpenMetadata</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#FFFFFF">
+<tspan x="1582.5" y="642" dominant-baseline="middle">+ правила]</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1582.5" y="661" dominant-baseline="middle">Теги, связи, версии схем</tspan>
+</text>
+<rect x="25" y="560" width="285" height="140" rx="30" fill="#0B4073" stroke="#0B4073" stroke-width="1"/>
+<circle cx="167.5" cy="544" r="43" fill="#0B4073" stroke="#0B4073" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="167.5" y="611" dominant-baseline="middle">Владелец домена</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#FFFFFF">
+<tspan x="167.5" y="632.5" dominant-baseline="middle">[Person]</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="167.5" y="651.5" dominant-baseline="middle">Разбор и утверждение правил</tspan>
+</text>
+<rect x="860" y="910" width="330" height="180" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="1025" y="971.5" dominant-baseline="middle">Loader / агрегатор</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#FFFFFF">
+<tspan x="1025" y="993" dominant-baseline="middle">[Container: batch job]</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1025" y="1012" dominant-baseline="middle">Проверка и публикация</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1025" y="1031" dominant-baseline="middle">Агрегаты, контроль выдачи</tspan>
+</text>
+<rect x="400" y="909" width="330" height="150" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<rect x="410" y="917" width="330" height="150" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<rect x="420" y="925" width="330" height="150" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="585" y="971.5" dominant-baseline="middle">Restricted</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#FFFFFF">
+<tspan x="585" y="993" dominant-baseline="middle">[Container: S3 / Parquet]</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="585" y="1012" dominant-baseline="middle">Минимизированные данные</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="585" y="1031" dominant-baseline="middle">MEDICAL; отдельная роль</tspan>
+</text>
+<rect x="1370" y="909" width="385" height="150" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<rect x="1380" y="917" width="385" height="150" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<rect x="1390" y="925" width="385" height="150" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="1582.5" y="971.5" dominant-baseline="middle">Curated / BI</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#FFFFFF">
+<tspan x="1582.5" y="993" dominant-baseline="middle">[Container: ClickHouse]</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1582.5" y="1012" dominant-baseline="middle">Агрегаты без прямых ID</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1582.5" y="1031" dominant-baseline="middle">Ограничения запросов</tspan>
+</text>
+<rect x="1390" y="1290" width="385" height="95" rx="30" fill="#0B4073" stroke="#0B4073" stroke-width="1"/>
+<circle cx="1582.5" cy="1274" r="43" fill="#0B4073" stroke="#0B4073" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="1582.5" y="1318.5" dominant-baseline="middle">Аналитик / BI-пользователь</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#FFFFFF">
+<tspan x="1582.5" y="1340" dominant-baseline="middle">[Person]</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1582.5" y="1359" dominant-baseline="middle">Разрешённые витрины</tspan>
+</text>
+<rect x="420" y="1100" width="330" height="120" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="585" y="1131.5" dominant-baseline="middle">Мониторинг и аудит</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#FFFFFF">
+<tspan x="585" y="1153" dominant-baseline="middle">[Container: VictoriaMetrics</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#FFFFFF">
+<tspan x="585" y="1172" dominant-baseline="middle">+ журнал]</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="585" y="1191" dominant-baseline="middle">Качество, очередь, доступ</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#454545">
+<tspan x="670" y="1326.55" dominant-baseline="middle">Шифрование и ключи KMS — для landing, quarantine и restricted. BI не читает эти слои напрямую.</tspan>
+<tspan x="670" y="1343.45" dominant-baseline="middle">Публикация требует тегов, цели, retention и lineage; при недоступной политике загрузка закрыта.</tspan>
+</text>
+<rect x="349.5" y="226.5" width="31" height="21" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="365" y="237" dominant-baseline="middle">TLS</tspan>
+</text>
+<rect x="786" y="226.5" width="38" height="21" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="805" y="237" dominant-baseline="middle">Вход</tspan>
+</text>
+<rect x="1160.5" y="389.5" width="199" height="21" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="1260" y="400" dominant-baseline="middle">batch_id и ссылка на объект</tspan>
+</text>
+<rect x="1274" y="449.5" width="52" height="21" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="1300" y="460" dominant-baseline="middle">Задача</tspan>
+</text>
+<rect x="971" y="439.5" width="108" height="21" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="1025" y="450" dominant-baseline="middle">Исходник / TLS</tspan>
+</text>
+<rect x="782.5" y="554.5" width="45" height="21" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="805" y="565" dominant-baseline="middle">Отказ</tspan>
+</text>
+<rect x="758" y="701" width="94" height="38" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="805" y="711.55" dominant-baseline="middle">Повтор после</tspan>
+<tspan x="805" y="728.45" dominant-baseline="middle">утверждения</tspan>
+</text>
+<rect x="339" y="584.5" width="52" height="21" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="365" y="595" dominant-baseline="middle">Разбор</tspan>
+</text>
+<rect x="1186" y="794.5" width="248" height="21" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="1310" y="805" dominant-baseline="middle">Новая версия правил после проверки</tspan>
+</text>
+<rect x="1239.5" y="564.5" width="101" height="21" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="1290" y="575" dominant-baseline="middle">Правила, теги</tspan>
+</text>
+<rect x="1236" y="704.5" width="108" height="21" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="1290" y="715" dominant-baseline="middle">Схема, lineage</tspan>
+</text>
+<rect x="960.5" y="816" width="129" height="38" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="1025" y="826.55" dominant-baseline="middle">Проверенный набор</tspan>
+<tspan x="1025" y="843.45" dominant-baseline="middle">и manifest</tspan>
+</text>
+<rect x="772" y="916" width="66" height="38" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="805" y="926.55" dominant-baseline="middle">Закрытая</tspan>
+<tspan x="805" y="943.45" dominant-baseline="middle">запись</tspan>
+</text>
+<rect x="754.5" y="1061" width="101" height="38" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="805" y="1071.55" dominant-baseline="middle">Для</tspan>
+<tspan x="805" y="1088.45" dominant-baseline="middle">агрегирования</tspan>
+</text>
+<rect x="1232.5" y="939.5" width="115" height="21" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="1290" y="950" dominant-baseline="middle">Только агрегаты</tspan>
+</text>
+<rect x="1533" y="1151" width="94" height="38" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="1580" y="1161.55" dominant-baseline="middle">Запрос / TLS</tspan>
+<tspan x="1580" y="1178.45" dominant-baseline="middle">RBAC, аудит</tspan>
+</text>
+<rect x="789" y="1189.5" width="122" height="21" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="850" y="1200" dominant-baseline="middle">Счётчики и аудит</tspan>
+</text>
+</svg>

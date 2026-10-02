@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="950" viewBox="0 0 1800 950">
+<title>Узкие места миграции — диаграмма Исикавы</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#8A8A8A"/></marker></defs>
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<polyline points="70,475 1450,475" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="250,335 440,475" fill="none" stroke="#8A8A8A" stroke-width="1.2"/>
+<polyline points="710,335 880,475" fill="none" stroke="#8A8A8A" stroke-width="1.2"/>
+<polyline points="1160,335 1320,475" fill="none" stroke="#8A8A8A" stroke-width="1.2"/>
+<polyline points="250,635 440,475" fill="none" stroke="#8A8A8A" stroke-width="1.2"/>
+<polyline points="710,635 880,475" fill="none" stroke="#8A8A8A" stroke-width="1.2"/>
+<polyline points="1160,635 1320,475" fill="none" stroke="#8A8A8A" stroke-width="1.2"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="24" font-weight="bold" fill="#454545">
+<tspan x="900" y="40" dominant-baseline="middle">Узкие места миграции — диаграмма Исикавы</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#454545">
+<tspan x="900" y="90.5" dominant-baseline="middle">Причины — гипотезы для проверки; файловый режим и один сервер известны из условия</tspan>
+</text>
+<rect x="1450" y="375" width="310" height="200" rx="12" fill="#0B4073" stroke="#0B4073" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="1605" y="437" dominant-baseline="middle">Срыв миграции</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1605" y="458.5" dominant-baseline="middle">и деградация работы</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1605" y="477.5" dominant-baseline="middle"></tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1605" y="496.5" dominant-baseline="middle">Потеря согласованности,</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1605" y="515.5" dominant-baseline="middle">задержки, простой</tspan>
+</text>
+<rect x="80" y="145" width="380" height="190" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="270" y="211.5" dominant-baseline="middle">Данные</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="270" y="233" dominant-baseline="middle">Дубли пациентов</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="270" y="252" dominant-baseline="middle">Разные схемы Excel</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="270" y="271" dominant-baseline="middle">Сканы без надёжной связи</tspan>
+</text>
+<rect x="520" y="145" width="380" height="190" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="710" y="211.5" dominant-baseline="middle">Инфраструктура</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="710" y="233" dominant-baseline="middle">Общий диск и один сервер</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="710" y="252" dominant-baseline="middle">Узкий канал филиала</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="710" y="271" dominant-baseline="middle">Долгое восстановление</tspan>
+</text>
+<rect x="960" y="145" width="400" height="190" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="1160" y="211.5" dominant-baseline="middle">Программное обеспечение</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1160" y="233" dominant-baseline="middle">Блокировки файлов 1С</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1160" y="252" dominant-baseline="middle">Долгие транзакции API</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1160" y="271" dominant-baseline="middle">Тяжёлый импорт на рабочей БД</tspan>
+</text>
+<rect x="80" y="635" width="380" height="190" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="270" y="701.5" dominant-baseline="middle">Интеграции</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="270" y="723" dominant-baseline="middle">Локальные OLE и ККМ</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="270" y="742" dominant-baseline="middle">Повторы результатов/платежей</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="270" y="761" dominant-baseline="middle">Различия ID и версий</tspan>
+</text>
+<rect x="520" y="635" width="380" height="190" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="710" y="701.5" dominant-baseline="middle">Персонал</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="710" y="723" dominant-baseline="middle">Трое IT совмещают поддержку</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="710" y="742" dominant-baseline="middle">Нет навыка новой системы</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="710" y="761" dominant-baseline="middle">Старые привычки Excel</tspan>
+</text>
+<rect x="960" y="635" width="400" height="190" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="1160" y="701.5" dominant-baseline="middle">Процессы</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1160" y="723" dominant-baseline="middle">Два источника записи</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1160" y="742" dominant-baseline="middle">Нет проверенного отката</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1160" y="761" dominant-baseline="middle">Проверки данных обходят</tspan>
+</text>
+</svg>

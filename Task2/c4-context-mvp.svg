@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1030" viewBox="0 0 1500 1030">
+<title>Медикаменте — C4 Context MVP</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#8A8A8A"/></marker></defs>
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<polyline points="400,250 470,250 470,430 550,430" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="400,730 470,730 470,540 550,540" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="950,430 990,430 990,250 1050,250" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="950,540 990,540 990,750 1050,750" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="24" font-weight="bold" fill="#454545">
+<tspan x="750" y="40" dominant-baseline="middle">Медикаменте — C4 Context MVP</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#454545">
+<tspan x="750" y="90.5" dominant-baseline="middle">[Person] — участник • [Software System] — система; границы показаны относительно платформы</tspan>
+</text>
+<rect x="60" y="180" width="340" height="140" rx="30" fill="#6D6578" stroke="#6D6578" stroke-width="1"/>
+<circle cx="230" cy="164" r="43" fill="#6D6578" stroke="#6D6578" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="230" y="231" dominant-baseline="middle">Пациент</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#FFFFFF">
+<tspan x="230" y="252.5" dominant-baseline="middle">[Person]</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="230" y="271.5" dominant-baseline="middle">Самостоятельная запись</tspan>
+</text>
+<rect x="60" y="660" width="340" height="140" rx="30" fill="#0B4073" stroke="#0B4073" stroke-width="1"/>
+<circle cx="230" cy="644" r="43" fill="#0B4073" stroke="#0B4073" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="230" y="711" dominant-baseline="middle">Ресепшен и врач</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#FFFFFF">
+<tspan x="230" y="732.5" dominant-baseline="middle">[Person]</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="230" y="751.5" dominant-baseline="middle">Запись и ручное напоминание</tspan>
+</text>
+<rect x="550" y="380" width="400" height="210" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="750" y="447" dominant-baseline="middle">Платформа Медикаменте</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#FFFFFF">
+<tspan x="750" y="468.5" dominant-baseline="middle">[Software System]</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="750" y="487.5" dominant-baseline="middle">Реестр пациентов и запись</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="750" y="506.5" dominant-baseline="middle">Порталы пациента и ресепшена</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="750" y="525.5" dominant-baseline="middle">Права по пациенту и филиалу</tspan>
+</text>
+<rect x="1050" y="180" width="380" height="140" rx="12" fill="#8C8498" stroke="#7B7387" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="1240" y="231" dominant-baseline="middle">Система идентификации</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#FFFFFF">
+<tspan x="1240" y="252.5" dominant-baseline="middle">[Software System]</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1240" y="271.5" dominant-baseline="middle">IdP + существующий AD</tspan>
+</text>
+<rect x="1050" y="680" width="380" height="140" rx="12" fill="#8C8498" stroke="#7B7387" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="1240" y="731" dominant-baseline="middle">1С, ККМ и защищённые папки</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#FFFFFF">
+<tspan x="1240" y="752.5" dominant-baseline="middle">[Software System]</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1240" y="771.5" dominant-baseline="middle">Учёт и медицинские документы</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#454545">
+<tspan x="955" y="914.05" dominant-baseline="middle">MVP: медкарты, лабораторный API и онлайн-платежи не переносятся в первую волну.</tspan>
+<tspan x="955" y="930.95" dominant-baseline="middle">Ресепшен напоминает пациенту и врачу за день; границы доменов заданы сразу.</tspan>
+</text>
+<rect x="421" y="329.5" width="108" height="21" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="475" y="340" dominant-baseline="middle">Запись, статус</tspan>
+</text>
+<rect x="402" y="601" width="136" height="38" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="470" y="611.55" dominant-baseline="middle">Расписание</tspan>
+<tspan x="470" y="628.45" dominant-baseline="middle">список напоминаний</tspan>
+</text>
+<rect x="942.5" y="326" width="115" height="38" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="1000" y="336.55" dominant-baseline="middle">Вход и проверка</tspan>
+<tspan x="1000" y="353.45" dominant-baseline="middle">учётной записи</tspan>
+</text>
+<rect x="927" y="601" width="136" height="38" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="995" y="611.55" dominant-baseline="middle">Минимальные данные</tspan>
+<tspan x="995" y="628.45" dominant-baseline="middle">связи patient_id</tspan>
+</text>
+</svg>

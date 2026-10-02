@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1420" height="890" viewBox="0 0 1420 890">
+<title>Лабораторные анализы — To-Be</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#8A8A8A"/></marker></defs>
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<rect x="465" y="175" width="875" height="580" rx="10" fill="none" stroke="#8A8A8A" stroke-width="1.2" stroke-dasharray="8 5"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="start" font-size="14" font-weight="bold" fill="#454545">
+<tspan x="477" y="742" dominant-baseline="middle">МЕДИКАМЕНТЕ  [Процесс и данные]</tspan>
+</text>
+<polyline points="360,240 500,240" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="800,240 1000,240" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="1000,300 800,300" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="360,570 500,570" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="500,635 360,635" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="800,570 1000,570" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="1000,630 800,630" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<polyline points="1000,315 935,315 935,435 650,435 650,530" fill="none" stroke="#8A8A8A" stroke-width="1.2" marker-end="url(#arrow)"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="24" font-weight="bold" fill="#454545">
+<tspan x="710" y="40" dominant-baseline="middle">Лабораторные анализы — To-Be</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#454545">
+<tspan x="710" y="90.5" dominant-baseline="middle">DFD процесса • предлагаемые данные, ограничения доступа и защита</tspan>
+</text>
+<rect x="60" y="200" width="300" height="140" rx="30" fill="#0B4073" stroke="#0B4073" stroke-width="1"/>
+<circle cx="210" cy="184" r="43" fill="#0B4073" stroke="#0B4073" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="210" y="270" dominant-baseline="middle">Назначенный врач</tspan>
+</text>
+<rect x="500" y="200" width="300" height="140" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="650" y="251" dominant-baseline="middle">P1. Создать lab_order</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="650" y="272.5" dominant-baseline="middle">Минимальный контракт</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="650" y="291.5" dominant-baseline="middle">Аудит, RBAC + ABAC</tspan>
+</text>
+<rect x="1000" y="200" width="300" height="140" fill="#1565AD"/><path d="M 1300 200 H 1000 V 340 H 1300" fill="none" stroke="#10528F" stroke-width="1.4"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="1150" y="251" dominant-baseline="middle">D1. Заказы анализов</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1150" y="272.5" dominant-baseline="middle">order_id ↔ patient_id</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1150" y="291.5" dominant-baseline="middle">MEDICAL; шифрование</tspan>
+</text>
+<rect x="60" y="530" width="300" height="140" rx="12" fill="#8C8498" stroke="#7B7387" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="210" y="600" dominant-baseline="middle">Лаборатория / API</tspan>
+</text>
+<rect x="500" y="530" width="300" height="140" rx="12" fill="#1565AD" stroke="#10528F" stroke-width="1"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="650" y="581" dominant-baseline="middle">P2. Lab adapter</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="650" y="602.5" dominant-baseline="middle">Проверить партнёра и заказ</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="650" y="621.5" dominant-baseline="middle">Дедупликация результата</tspan>
+</text>
+<rect x="1000" y="530" width="300" height="140" fill="#1565AD"/><path d="M 1300 530 H 1000 V 670 H 1300" fill="none" stroke="#10528F" stroke-width="1.4"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">
+<tspan x="1150" y="581" dominant-baseline="middle">D2. Clinical / результаты</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1150" y="602.5" dominant-baseline="middle">MEDICAL; шифрование</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="normal" fill="#DBE6F0">
+<tspan x="1150" y="621.5" dominant-baseline="middle">Чтение через Clinic API</tspan>
+</text>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="normal" fill="#454545">
+<tspan x="680" y="812.5" dominant-baseline="middle">As-Is: точный канал ручного обмена не указан. To-Be: нет поиска всех пациентов через API лаборатории.</tspan>
+</text>
+<rect x="369" y="136" width="122" height="38" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="430" y="146.55" dominant-baseline="middle">Код исследования</tspan>
+<tspan x="430" y="163.45" dominant-baseline="middle">HTTPS</tspan>
+</text>
+<rect x="832" y="136" width="136" height="38" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="900" y="146.55" dominant-baseline="middle">Заказ, specimen_id</tspan>
+<tspan x="900" y="163.45" dominant-baseline="middle">TLS</tspan>
+</text>
+<rect x="846" y="311" width="108" height="38" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="900" y="321.55" dominant-baseline="middle">Заказ и версия</tspan>
+<tspan x="900" y="338.45" dominant-baseline="middle">TLS</tspan>
+</text>
+<rect x="362" y="471" width="136" height="38" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="430" y="481.55" dominant-baseline="middle">Результат, version</tspan>
+<tspan x="430" y="498.45" dominant-baseline="middle">mTLS + scope</tspan>
+</text>
+<rect x="365.5" y="696" width="129" height="38" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="430" y="706.55" dominant-baseline="middle">specimen_id, тест</tspan>
+<tspan x="430" y="723.45" dominant-baseline="middle">mTLS + scope</tspan>
+</text>
+<rect x="846" y="471" width="108" height="38" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="900" y="481.55" dominant-baseline="middle">Проверенный</tspan>
+<tspan x="900" y="498.45" dominant-baseline="middle">результат, TLS</tspan>
+</text>
+<rect x="839" y="696" width="122" height="38" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="900" y="706.55" dominant-baseline="middle">ID и версия</tspan>
+<tspan x="900" y="723.45" dominant-baseline="middle">для дедупликации</tspan>
+</text>
+<rect x="732" y="386" width="136" height="38" fill="white"/>
+<text font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="13" font-weight="bold" fill="#454545">
+<tspan x="800" y="396.55" dominant-baseline="middle">ID заказа, образец</tspan>
+<tspan x="800" y="413.45" dominant-baseline="middle">минимальный DTO</tspan>
+</text>
+</svg>
